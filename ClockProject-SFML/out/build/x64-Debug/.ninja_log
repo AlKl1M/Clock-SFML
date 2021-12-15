@@ -1,0 +1,4 @@
+# ninja log v5
+0	1280	6611887624175425	CMakeFiles/Clock_SFML.dir/main.cpp.obj	8b11a3ef03e7d55f
+4	1294	6611887624315038	CMakeFiles/Clock_SFML.dir/src/clock.cpp.obj	d7217be4f6f6ad49
+1294	1833	6611887629461784	Clock_SFML.exe	8f483bec2cae0f4f
