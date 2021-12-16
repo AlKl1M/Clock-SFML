@@ -1,3 +1,0 @@
-C:/Users/bazin/source/repos/ClockProject-SFML/out/build/x64-Release/CMakeFiles/Clock_SFML.dir
-C:/Users/bazin/source/repos/ClockProject-SFML/out/build/x64-Release/CMakeFiles/edit_cache.dir
-C:/Users/bazin/source/repos/ClockProject-SFML/out/build/x64-Release/CMakeFiles/rebuild_cache.dir

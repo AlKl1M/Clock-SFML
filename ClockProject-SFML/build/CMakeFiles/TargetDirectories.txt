@@ -1,3 +1,0 @@
-C:/Users/bazin/source/repos/ClockProject-SFML/build/CMakeFiles/Clock_SFML.dir
-C:/Users/bazin/source/repos/ClockProject-SFML/build/CMakeFiles/ALL_BUILD.dir
-C:/Users/bazin/source/repos/ClockProject-SFML/build/CMakeFiles/ZERO_CHECK.dir
